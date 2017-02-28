@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">adhtml</string>
+    <string name="help">帮助</string>
+    <string name="string_help_text">寻求帮助</string>
+    <string name="settings">设定</string>
+    <string name="quit">退出</string>
+</resources>
